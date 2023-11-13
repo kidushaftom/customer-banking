@@ -88,6 +88,7 @@ def main():
         except ValueError:
             print("Invalid input. Please enter a valid number.")
     print('-'*40, '\n')
+    
     # Call the create_cd_account function and pass the variables from the user.
     updated_cd_balance, cd_interest_earned = create_cd_account(cd_balance, cd_interest, cd_maturity)
 

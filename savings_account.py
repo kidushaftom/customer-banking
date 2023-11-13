@@ -1,6 +1,6 @@
 """Imports the SavingsAccount class and attributes from the Account.py file."""
-import os
-os.chdir('C:/Users/hafto/OneDrive/Desktop/assignment')
+#import os
+#os.chdir('C:/Users/hafto/OneDrive/Desktop/assignment')
 
 from Account import Account
 
