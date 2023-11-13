@@ -3,7 +3,7 @@ import os
 os.chdir('C:/Users/hafto/OneDrive/Desktop/assignment')
 
 from savings_account import create_savings_account
-from cd_account import create_cd_account
+from CD_account import create_cd_account
 from Account import Account
 from datetime import datetime
 import pandas as pd
