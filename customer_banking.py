@@ -1,6 +1,6 @@
 # Import the create_cd_account and create_savings_account functions
-import os
-os.chdir('C:/Users/hafto/OneDrive/Desktop/assignment')
+#import os
+#os.chdir('C:/Users/hafto/OneDrive/Desktop/assignment')
 
 from savings_account import create_savings_account
 from CD_account import create_cd_account
